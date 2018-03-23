@@ -1,0 +1,3 @@
+# relative paths
+setenv RTL ../rtl
+setenv SRC ../src

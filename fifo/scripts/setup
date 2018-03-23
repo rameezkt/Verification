@@ -1,0 +1,3 @@
+setenv RTL ../rtl
+setenv SRC ../src
+setenv UVC ../src/fifo_uvc
